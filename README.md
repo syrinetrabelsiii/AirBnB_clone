@@ -2,7 +2,7 @@
 
 # Description of the project
 
-This is the first step towards building our first full web application: the AirBnB clone.
+This is the first step towards building our first full web application: 
 This first step is very important because we will use what we build during this project with all other following projects, in it we are going to write a command interpreter to manage our AirBnB objects:
 
     *  Create a new object(ex: a new User or a new Place)
