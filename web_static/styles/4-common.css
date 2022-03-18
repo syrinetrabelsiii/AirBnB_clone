@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     padding: 0px;
     margin: 0px;
@@ -10,3 +11,25 @@ body{
     max-width: 1000px;
     margin: 30px auto;
 }
+=======
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	color: #484848;
+	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+div.container {
+	flex: 1 0 auto;
+	margin: 30px auto;
+	max-width: 1000px;
+	width: 100%;
+}
+>>>>>>> 9a1d46e95583315ca1eb96af1d5021a77af926d2
